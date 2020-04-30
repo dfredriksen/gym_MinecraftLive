@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_MinecraftLive.egg-info/PKG-INFO
+gym_MinecraftLive.egg-info/SOURCES.txt
+gym_MinecraftLive.egg-info/dependency_links.txt
+gym_MinecraftLive.egg-info/requires.txt
+gym_MinecraftLive.egg-info/top_level.txt
